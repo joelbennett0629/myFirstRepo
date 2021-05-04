@@ -8,4 +8,4 @@ This is my first Repository!
 # Projects:  
 ## WinRateGrabber, Collects and averages the winrates of two teams in League of Legends.  
 
-# This is a Manual Merge Conflict(MMG).
+# This is a Manual Merge Conflict(MMG).dfasdfasdfasdf
